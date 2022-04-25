@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: cherry2022.jpeg
+  image: cherry2022.jpg
   address: >
     <p>Office:303, LAB:439, W11-2</p>
     <p>Chungnam National University</p>
