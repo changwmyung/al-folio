@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a> Assistant Professor, Department of Chemistry
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office:303, LAB:439, W11-2</p>
+    <p>Chungnam National University</p>
+    <p>99 Daehakro, Daejeon, Korea </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Chang Woo Myung, an assistant professor in the Department of Chemistry at Chungnam National University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining the faculty, I worked as a postdoc researcher at University of Cambridge with Prof. Angelos Michaelides and at ETH Zurich/USI with Prof. Michele Parrinello. I received my PhD in Chemistry under Prof. Kwang S. Kim at UNIST, Korea. Before that, I recieved my MS and BS at POSTECH, Korea. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our group's interests lie at developing machine learning methods for understanding complex chemical processes in materials and surfaces. We develop [machine learning potential](https://github.com/amirhajibabaei/AutoForce) algorithms using sparse Gaussian process regression. Also we study the structure of complex surface by developing machine learning methods for global optimization algorithms. More information on my research is available in [research projects](prjects/).
+
+The group is currently looking for talented Master and PhD students. If you have a background in chemistry, physics and materials science and the above projects seem interesting, feel free to contact me. The group is looking for postdoctoral researchers. If the prior research topics align well with the above, please contact me. 
+
+
