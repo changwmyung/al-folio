@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> Assistant Professor, Department of Chemis
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cherry2022.jpeg
   address: >
     <p>Office:303, LAB:439, W11-2</p>
     <p>Chungnam National University</p>
@@ -23,6 +23,6 @@ Before joining the faculty, I worked as a postdoc researcher at University of Ca
 
 Our group's interests lie at developing machine learning methods for understanding complex chemical processes in materials and surfaces. We develop [machine learning potential](https://github.com/amirhajibabaei/AutoForce) algorithms using sparse Gaussian process regression. Also we study the structure of complex surface by developing machine learning methods for global optimization algorithms. More information on my research is available in [research projects](prjects/).
 
-The group is currently looking for talented Master and PhD students. If you have a background in chemistry, physics and materials science and the above projects seem interesting, feel free to contact me. The group is looking for postdoctoral researchers. If the prior research topics align well with the above, please contact me. 
+The group is currently looking for talented Master, PhD students and postdocs. If you have a background in chemistry, physics and materials science and the above projects seem interesting, feel free to contact me. 
 
 
