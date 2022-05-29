@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The team welcomes applications for research participation, MS, and PhD positions!
+title: The team welcomes applications for MS, PhD, and postdoc positions!
 inline: false
 ---
-
+#### positions open!
 The team welcomes applications for undergraduate research participation, MS, and PhD positions! If you are a prospect student who are keen on applying for the positions, please refer to the below information.
 
 ***
@@ -12,7 +12,7 @@ A student who is expected to apply for the MS or PhD position in CNU is encourag
 
 Below is a list of available PhD fellowships and scholarships in Korea. If you want to apply one of those with me, please contact me.
 
-#### opportunities for students
+##### opportunities for students
 <ul>
     <li><a href="https://www.postf.org/en/page/asia/vision.do">POSCO Asia Fellowships</a> - Scholarship for Asian Students Studying in Korea </li>
     <li><a href="https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do">Global Korea Scholarship</a> - Scholarship for Foreign Students Studying in Korea </li>
@@ -24,7 +24,7 @@ Below is a list of available PhD fellowships and scholarships in Korea. If you w
 
 The group also welcomes talented researchers all around the world! If you are keen on joining the group, please refer to the below.
 
-#### opportunities for postdocs
+##### opportunities for postdocs
 <ul>
     <li><a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=372">BrainPool fellowship</a> - NRF funded postdoctoral fellowship for maximum 3 years</li>
 </ul>
