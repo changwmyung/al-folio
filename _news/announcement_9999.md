@@ -12,7 +12,7 @@ A student who is expected to apply for the MS or PhD position in CNU is encourag
 
 Below is a list of available PhD fellowships and scholarships in Korea. If you want to apply one of those with me, please contact me.
 
-#### Hipster list
+#### opportunities for students
 <ul>
     <li><a href="https://www.postf.org/en/page/asia/vision.do">POSCO Asia Fellowships</a> - Scholarship for Asian Students Studying in Korea </li>
     <li><a href="https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do">Global Korea Scholarship</a> - Scholarship for Foreign Students Studying in Korea </li>
@@ -22,9 +22,11 @@ Below is a list of available PhD fellowships and scholarships in Korea. If you w
 
 ***
 
-The group also welcomes talented researchers all around the world! If you are keen on applying to the group, please refer to the dedicated page.
+The group also welcomes talented researchers all around the world! If you are keen on joining the group, please refer to the below.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+#### opportunities for postdocs
+<ul>
+    <li><a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=372">BrainPool fellowship</a> - NRF funded postdoctoral fellowship for maximum 3 years</li>
+</ul>
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+For more enquiries, please contact me.
