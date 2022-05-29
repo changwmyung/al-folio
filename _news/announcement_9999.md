@@ -4,7 +4,7 @@ title: The team welcomes applications for MS, PhD, and postdoc positions!
 inline: false
 ---
 #### positions open!
-The team welcomes applications for undergraduate research participation, MS, and PhD positions! If you are a prospect student who are keen on applying for the positions, please refer to the below information.
+The team welcomes applications for undergraduate research participation, MS, PhD, and postdoc positions! If you are a prospect student or researcher who are keen on applying for the positions, please refer to the below information.
 
 ***
 
