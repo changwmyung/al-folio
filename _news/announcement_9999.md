@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The team welcomes applications for MS, PhD, and postdoc positions!
+title: The team welcomes applications for MS, PhD, and postdoc positions! :fire:
 inline: false
 ---
 #### positions open!
