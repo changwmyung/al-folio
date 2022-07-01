@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Chang Woo Myung
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/members/cwmyung.jpg
 importance: 1
-category: work
+category: principal investigator
 ---
 
 Every project has a beautiful feature showcase page.
@@ -15,9 +15,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: members
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/members/cwmyung.jpg
     ---
 
 <div class="row">
