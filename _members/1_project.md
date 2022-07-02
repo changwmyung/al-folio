@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chang Woo Myung
-description: principal investigator (Email: cwmyung@cnu.ac.kr)
+description: principal investigator 
 img: assets/img/members/cwmyung.jpg
 importance: 1
 category: group_members
