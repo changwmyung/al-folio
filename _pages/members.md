@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 description: group members, staffs, collaborators, and visitors
 nav: true
-display_categories: [group members, staffs, collaborators, visitors]
+display_categories: [group_members, staffs, collaborators, visitors]
 horizontal: false
 ---
 
