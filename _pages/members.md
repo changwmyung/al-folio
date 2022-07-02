@@ -2,9 +2,9 @@
 layout: page
 title: members
 permalink: /members/
-description: Group members 
+description: group members, staffs, collaborators, and visitors
 nav: true
-display_categories: [work, fun]
+display_categories: [group members, staffs, collaborators, visitors]
 horizontal: false
 ---
 

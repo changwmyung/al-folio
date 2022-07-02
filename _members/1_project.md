@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chang Woo Myung
-description: a project with a background image
+description: principal investigator (Email: cwmyung@cnu.ac.kr)
 img: assets/img/members/cwmyung.jpg
 importance: 1
-category: work
+category: group members
 ---
 
 Every project has a beautiful feature showcase page.
