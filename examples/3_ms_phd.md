@@ -3,7 +3,6 @@ layout: page
 title: MS candidate
 description: John Doe (email)
 img: assets/img/members/cwmyung.jpg
-redirect: https://unsplash.com
 importance: 1
 category: group_members
 ---
