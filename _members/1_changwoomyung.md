@@ -19,11 +19,17 @@ I’m Chang Woo Myung, an assistant professor in the Department of Chemistry at 
 
 Selected Papers (see more publication here.)
 
-"Tuning Metal Single Atoms Embedded in NxCy Moiety Toward High-Performance Electrocatalysis." Energy Environ. Sci. accepted (2021).
-"Prediction of a supersolid phase in high-pressure deuterium." arXiv:2103.13974
+1. "Tuning Metal Single Atoms Embedded in NxCy Moiety Toward High-Performance Electrocatalysis." Energy Environ. Sci. accepted (2021).
+
+2. "Prediction of a supersolid phase in high-pressure deuterium." arXiv:2103.13974
 "Anharmonicity‐Driven Rashba Cohelical Excitons Break Quantum Efficiency Limitation." Adv. Mater. 33, 2005400 (2021).
-"Superb band alignment, defect tolerance, and carrier injection property of SnO2 electron transport layer for perovskite solar cells." npj Computational Mater. 6, 100 (2020).
-"Superb water splitting activity of the electrocatalyst Fe3Co(PO4)4 designed with computation-aid." Nat. Commun. 10, 5195 (2019).
-"Multicomponent electrocatalyst with ultralow Pt loading and high hydrogen evolution activity." Nat. Energy 3, 773–782 (2018).
-"A new perspective on the role of A-site cations in perovskite solar cells." Adv. Energy Mater. 8, 1702898 (2018).
-"Rashba-Dresselhaus effect in inorganic/organic lead iodide perovskite interfaces." ACS Energy Lett. 3, 1294-1300 (2018).
+
+3. "Superb band alignment, defect tolerance, and carrier injection property of SnO2 electron transport layer for perovskite solar cells." npj Computational Mater. 6, 100 (2020).
+
+4. "Superb water splitting activity of the electrocatalyst Fe3Co(PO4)4 designed with computation-aid." Nat. Commun. 10, 5195 (2019).
+
+5. "Multicomponent electrocatalyst with ultralow Pt loading and high hydrogen evolution activity." Nat. Energy 3, 773–782 (2018).
+
+6. "A new perspective on the role of A-site cations in perovskite solar cells." Adv. Energy Mater. 8, 1702898 (2018).
+
+7. "Rashba-Dresselhaus effect in inorganic/organic lead iodide perovskite interfaces." ACS Energy Lett. 3, 1294-1300 (2018).
