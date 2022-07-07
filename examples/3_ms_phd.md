@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MS candidate
-description: John Doe (email)
+title: John Doe 
+description: MS candidate(email)
 img: assets/img/members/cwmyung.jpg
 importance: 1
 category: group_members
