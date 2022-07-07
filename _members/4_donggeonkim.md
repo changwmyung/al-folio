@@ -16,4 +16,4 @@ category: group_members
 
 I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.
 
-The summer in korea is too hot.
+The summer in korea is too hot. (in progress...)
