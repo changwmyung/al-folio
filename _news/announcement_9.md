@@ -1,11 +1,10 @@
 ---
 layout: post
 date: 2022-09-23 10:00:00-12:30:00
-title: 특수실험 학술회test
-img: assets/img/events/IMG_2081.jpg
+title: 2022년 자연과학대학 하계 학술발표회(CNU드림꾸러미)
 inline: false
 ---
-#### 특수실험실습 학술회 발표
+#### 1차 및 하계 특수실험실습 발표(김동건, 이호진)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
