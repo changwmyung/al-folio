@@ -14,9 +14,6 @@ inline: false
         {% include figure.html path="assets/img/events/IMG_2087.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-(1차 특수실험실습)화학과 201701005 김동건, (하계 특수실험실습)화학과 201701052 이호진 참여.
-
+(1차 특수실험실습)김동건, (하계 특수실험실습)이호진 참여.
 
 :tada:이호진 우수상 및 인기상 수상(상금 20 만 원 수령).:tada:
-</div>
