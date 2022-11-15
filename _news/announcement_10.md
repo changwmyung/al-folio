@@ -14,9 +14,10 @@ inline: false
         {% include figure.html path="assets/img/events/130th_chem_society/2022_chem_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-기간 : 2022.10.19 ~ 2022.10.22
 
 [제130회 대한화학회]
+
+기간 : 2022.10.19 ~ 2022.10.22
 
 장소 : 경주화백컨벤션센터, 경주HICO
 
