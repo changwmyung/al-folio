@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Radhakrishnan Sundheep (email@)
-description: Postdoctoral researcher
+title: Radhakrishnan Sundheep
+description: Postdoctoral researcher (email@)
 img: assets/img/members/represent/Sundheep_re.jpg
 importance: 1
 category: group_members
