@@ -2,7 +2,7 @@
 layout: page
 title: Radhakrishnan Sundheep
 description: Postdoctoral researcher
-img: assets/img/members/Sundheep.jpg
+img: assets/img/members/represent/Sundheep_re.jpg
 importance: 1
 category: group_members
 ---

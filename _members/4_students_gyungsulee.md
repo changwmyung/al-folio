@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gyung Su Kim
+title: Gyung Su Lee
 description: BS student (@o.cnu.ac.kr)
 img: assets/img/members/represent/###.jpg
 importance: 1

@@ -2,7 +2,7 @@
 layout: page
 title: Dong Geon Kim
 description: MS candidate (tikidong@o.cnu.ac.kr)
-img: assets/img/members/dgkim.jpg
+img: assets/img/members/represent/dgkim_re.jpg
 importance: 1
 category: group_members
 ---

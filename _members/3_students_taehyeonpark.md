@@ -2,7 +2,7 @@
 layout: page
 title: Tae Hyeon Park
 description: MS candidate (pth323@o.cnu.ac.kr)
-img: assets/img/members/thpark.jpg
+img: assets/img/members/represent/thpark_re.jpg
 importance: 1
 category: group_members
 ---
