@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gyung Su Lee
-description: BS student (201801090@o.cnu.ac.kr)
+title: Jae Hyun Kim
+description: BS student (llzxcrazyxll@o.cnu.ac.kr)
 img: assets/img/members/represent/###.jpg
 importance: 1
 category: group_members
@@ -14,4 +14,4 @@ category: group_members
     </div>
 </div>
 
-I'm Gyung Su Lee, a student in Department of Chemistry at Chungnam National University.
+I'm Jae Hyun Kim, a student in Department of Chemistry at Chungnam National University.

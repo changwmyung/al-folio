@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ho Jin Lee
-description: MS candidate (@o.cnu.ac.kr)
+description: MS candidate (manuphojin@o.cnu.ac.kr)
 img: assets/img/members/represent/hjlee_re.jpg
 importance: 1
 category: group_members

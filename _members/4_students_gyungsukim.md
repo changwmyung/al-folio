@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gyung Su Kim
-description: BS student (@o.cnu.ac.kr)
+description: BS student (johaki9837@o.cnu.ac.kr)
 img: assets/img/members/represent/###.jpg
 importance: 1
 category: group_members
@@ -10,8 +10,8 @@ category: group_members
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/members/.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/members/###.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-I'm ###, a student in Department of Chemistry at Chungnam National University.
+I'm Gyung Su Kim, a student in Department of Chemistry at Chungnam National University.

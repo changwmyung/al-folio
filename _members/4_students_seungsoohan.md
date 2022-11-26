@@ -14,4 +14,4 @@ category: group_members
     </div>
 </div>
 
-I'm ###, a student in Department of Chemistry at Chungnam National University.
+I'm Seoung Soo Han, the real man of CNU Department of Chemistry. (undergraduate student of chemistry department)
