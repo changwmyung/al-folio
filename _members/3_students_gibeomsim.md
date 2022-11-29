@@ -15,8 +15,8 @@ category: group_members
 
 I’m Gi Beom Sim and master’s degree cadidate in computational chemistry.
 I'm studying the electrochemical catalyst combining chemistry with computing technology.
-Recently, the fundamental part of the global environment problem and methodology of calculation is my interest.
-I'd like to devote fundamentally solving environmental issues, and understanding the chemical problems involved.
+Recently, greenhouse gas emission problem and methodology of calculation is my interest.
+I'd like to devote fundamentally solving greenhouse gas emission issues with advanced development of catalyst and understanding the chemical problems involved.
 
 According to the flow, my research goals are as below.
 
