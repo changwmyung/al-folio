@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Ann So Hee
-description: BS student (aoo212@o.cnu.ac.k)
-img: assets/img/members/represent/###.jpg
+description: BS student (aoo212@o.cnu.ac.kr)
+img:
 importance: 1
-category: group_members
+category: visitors
 ---
 
 

@@ -2,9 +2,9 @@
 layout: page
 title: Jung Bin Yoon
 description: BS student (jb8938@o.cnu.ac.kr)
-img: assets/img/members/represent/###.jpg
+img:
 importance: 1
-category: group_members
+category: visitors
 ---
 
 
