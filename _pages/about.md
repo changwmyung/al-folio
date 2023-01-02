@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-horizontal: false
 
 profile:
   align: right
@@ -16,6 +15,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cherry2022.jpg" title="2022_04_11" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Our group's interests lie at developing `machine learning` methods for understanding complex chemical processes in materials and surfaces. We develop [machine learning potential](https://github.com/amirhajibabaei/AutoForce) algorithms using sparse Gaussian process regression. Also we study the structure of complex surface by developing machine learning methods for global optimization algorithms. More information on my research is available in [research projects](prjects/).
 
 I'm Chang Woo Myung, an assistant professor in the Department of Chemistry at Chungnam National University. Before joining the faculty, I worked as a postdoc researcher at University of Cambridge with [Prof. Angelos Michaelides](https://www.ch.cam.ac.uk/group/michaelides/person/am452) and at ETH Zurich/USI with [Prof. Michele Parrinello](https://parrinello.ethz.ch). I received my PhD in Chemistry under Prof. Kwang S. Kim at UNIST, Korea. Before that, I recieved my MS and BS at POSTECH, Korea. 
