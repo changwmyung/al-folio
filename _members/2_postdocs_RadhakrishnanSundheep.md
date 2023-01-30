@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Radhakrishnan Sundheep
-description: postdoctoral researcher (email@)
+description: postdoctoral researcher (sundheep.rk@o.cnu.ac.kr)
 img: assets/img/members/represent/Sundheep_re.jpg
 importance: 1
 category: group_members
