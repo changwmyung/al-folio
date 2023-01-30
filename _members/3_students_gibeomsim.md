@@ -9,6 +9,10 @@ category: group_members
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/members/gbsim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 I’m Gi Beom Sim and master’s degree cadidate in computational chemistry.
 I'm studying the electrochemical catalyst combining chemistry with computing technology.
 Recently, greenhouse gas emission problem and methodology of calculation is my interest.
@@ -20,10 +24,3 @@ According to the flow, my research goals are as below.
 2. Study of catalytic reaction mechanism at the first-principle level and develop the algorithms for this research.
 3. Development of bayesian basin hopping algorithms based on SGPR.
 4. Development of empirical potential guided SGPR.
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/members/gbsim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-
