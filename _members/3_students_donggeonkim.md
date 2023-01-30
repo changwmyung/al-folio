@@ -9,11 +9,13 @@ category: group_members
 
 
 <div class="row">
+    I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.
+
+    The summer in korea is too hot. (in progress...)
+    
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/members/dgkim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.
 
-The summer in korea is too hot. (in progress...)
