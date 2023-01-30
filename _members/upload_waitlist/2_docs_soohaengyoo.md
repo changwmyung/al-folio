@@ -4,7 +4,7 @@ title: Soo Haeng Yoo
 description: (email@)
 img: assets/img/members/represent/###_re.jpg
 importance: 1
-category: group_members
+#category: group_members
 ---
 
 <div class="row">
