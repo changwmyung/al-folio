@@ -3,7 +3,7 @@ layout: page
 title: Seoung Soo Han
 description: BS student (sshan327@o.cnu.ac.kr)
 img: assets/img/members/represent/sshan_re.jpg
-importance: 1
+importance: 2
 category: visitors
 ---
 
