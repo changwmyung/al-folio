@@ -8,12 +8,10 @@ inline: false
 
 <div class="row">
     <div class="col mt-3 mt-md-0">
-        {% include figure.html path="assets/img/events/IMG_2081.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/events/2022_special_experiment_practice/IMG_2081.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="row">
     <div class="col mt-3 mt-md-0">
-        {% include figure.html path="assets/img/events/IMG_2087.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/events/2022_special_experiment_practice/IMG_2087.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 (1차 특수실험실습)김동건, (하계 특수실험실습)이호진 참여.
