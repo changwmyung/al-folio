@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-09-23 10:00:00-1230
+date: 2022-09-23 10:00:00-12:30:00
 title: 2022년 자연과학대학 하계 학술발표회(CNU드림꾸러미)
 inline: false
 ---
@@ -10,6 +10,8 @@ inline: false
     <div class="col mt-3 mt-md-0">
         {% include figure.html path="assets/img/events/IMG_2081.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col mt-3 mt-md-0">
         {% include figure.html path="assets/img/events/IMG_2087.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
