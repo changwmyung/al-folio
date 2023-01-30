@@ -10,9 +10,8 @@ category: group_members
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br>
-    
-    
+    I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br><br>
+       
     The summer in korea is too hot. (in progress...)
     
     </div>
