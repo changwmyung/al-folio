@@ -4,7 +4,7 @@ title: Seoung Soo Han
 description: BS student (sshan327@o.cnu.ac.kr)
 img: assets/img/members/represent/sshan_re.jpg
 importance: 1
-category: group_members
+category: visitors
 ---
 
 
