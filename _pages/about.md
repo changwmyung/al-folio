@@ -6,10 +6,10 @@ permalink: /
 profile:
   align: right
   image: cherry2022.jpg
-  address: >
-    <p>Office:303, LAB:439, W11-2</p>
-    <p>Chungnam National University</p>
-    <p>99 Daehakro, Daejeon, Korea </p>
+  address:
+    ><p>Office:303, LAB:439, W11-2</p>
+    ><p>Chungnam National University</p>
+    ><p>99 Daehakro, Daejeon, Korea </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
