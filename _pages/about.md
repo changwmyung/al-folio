@@ -1,7 +1,7 @@
 ---
-layout: about
-title: about
-permalink: /
+layout: page
+title: Home
+permalink:
 
 profile:
   align: right
