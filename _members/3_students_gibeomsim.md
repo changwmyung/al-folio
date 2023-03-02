@@ -9,7 +9,7 @@ category: group_members
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      I’m Gi Beom Sim and master’s degree cadidate in computational chemistry.<br>
+      I’m Gi Beom Sim and master’s degree candidate in computational chemistry.<br>
       I'm studying the electrochemical catalyst combining chemistry with computing technology.<br>
       Recently, greenhouse gas emission problem and methodology of calculation is my interest.<br>
       I'd like to devote fundamentally solution of these issues with advanced development of catalyst and understanding the chemical problems involved.<br>
