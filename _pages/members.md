@@ -1,6 +1,6 @@
 ---
 layout: page
-title: members
+title: Members
 permalink: /members/
 description: group members, staffs, collaborators, and visitors
 nav: true
