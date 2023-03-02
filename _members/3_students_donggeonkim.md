@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dong Geon Kim
-description: MS candidate (tikidong@o.cnu.ac.kr)
+description: MS student (tikidong@o.cnu.ac.kr)
 img: assets/img/members/represent/dgkim_re.jpg
 importance: 1
 category: group_members
@@ -9,13 +9,13 @@ category: group_members
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
     I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br><br>
        
     The summer in korea is too hot. (in progress...)
     
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
         {% include figure.html path="assets/img/members/dgkim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

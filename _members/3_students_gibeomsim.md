@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gi Beom Sim
-description: MS candidate (201701030@o.cnu.ac.kr)
+description: integrated PhD (201701030@o.cnu.ac.kr)
 img: assets/img/members/represent/gbsim_re.jpg
 importance: 1
 category: group_members
