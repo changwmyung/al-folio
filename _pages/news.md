@@ -11,7 +11,7 @@ nav: true
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
     {%- assign news = site.news | reverse -%} 
-    {% for item in 100 %} 
+    {% for item in news limit menu: site.news_limit_menu %} 
       <tr>
         <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
         <td>

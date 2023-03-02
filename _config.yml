@@ -121,6 +121,7 @@ collections:
     permalink: /members/:path/
 
 news_limit: 5
+news_limit_menu: 100
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
