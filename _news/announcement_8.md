@@ -1,33 +1,19 @@
 ---
 layout: post
-date: 2023-1-30
-title: The team welcomes applications for MS, PhD, and postdoc positions!
+date: 2022-09-23 10:00:00-12:30:00
+title: 2022년 자연과학대학 하계 학술발표회(CNU드림꾸러미)
 inline: false
 ---
-#### positions open!
-The team welcomes applications for undergraduate research participation, MS, PhD, and postdoc positions! If you are a prospect student or researcher who are keen on applying for the positions, please refer to the below information.
+#### 1차 및 하계 특수실험실습 발표(김동건, 이호진)
 
-***
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/events/2022_special_experiment_practice/IMG_2081.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/events/2022_special_experiment_practice/IMG_2087.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+(1차 특수실험실습)김동건, (하계 특수실험실습)이호진 참여.
 
-A student who is expected to apply for the MS or PhD position in CNU is encouraged to take English certificate exams (even though English is listed as one of your country's official languages). The student with English certificate will be awarded a scholarship from the Department of Chemistry, CNU.
-
-Below is a list of available PhD fellowships and scholarships in Korea. If you want to apply one of those with me, please contact me.
-
-##### opportunities for students
-<ul>
-    <li><a href="https://www.postf.org/en/page/asia/vision.do">POSCO Asia Fellowships</a> - Scholarship for Asian Students Studying in Korea </li>
-    <li><a href="https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do">Global Korea Scholarship</a> - Scholarship for Foreign Students Studying in Korea </li>
-    <li><a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=416">박사과정생 연구장려금지원</a> - NRF에서 지원 중인 박사과정생 연구장려 지원금</li>
-    <li>특수실험 학부생 연구참여 - 충남대 화학과 학부연구참여 장학금 프로그램</li>
-</ul>
-
-***
-
-The group also welcomes talented researchers all around the world! If you are keen on joining the group, please refer to the below.
-
-##### opportunities for postdocs
-<ul>
-    <li><a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=372">BrainPool fellowship</a> - NRF funded postdoctoral fellowship for maximum 3 years</li>
-</ul>
-
-For more enquiries, please contact me.
+:tada:이호진 우수상 및 인기상 수상(상금 20 만 원 수령).:tada:
