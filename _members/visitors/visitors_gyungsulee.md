@@ -4,7 +4,7 @@ title: Gyung Su Lee
 description: BS student (201801090@o.cnu.ac.kr)
 img:
 importance: 3
-category: group_members
+category: visitors
 ---
 
 

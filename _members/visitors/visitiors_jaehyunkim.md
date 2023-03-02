@@ -4,7 +4,7 @@ title: Jae Hyun Kim
 description: BS student (llzxcrazyxll@o.cnu.ac.kr)
 img: 
 importance: 3
-category: group_members
+category: visitors
 ---
 
 
