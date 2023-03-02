@@ -8,10 +8,10 @@ category: group_members
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-auto">
         {% include figure.html path="assets/img/members/gbsim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-auto">
       &nbsp;My interests are computation methodology, algorithm development, ways to fundamentally solve environmental issues, and understanding related chemical problems.<br>
       
       &nbsp;I’m Gi Beom Sim, integrated PhD program in computational chemistry. 
