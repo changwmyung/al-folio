@@ -9,6 +9,9 @@ category: group_members
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/members/gbsim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
       My interests are computation methodology, algorithm development, ways to fundamentally solve environmental issues, and understanding related chemical problems.<br>
       
       I’m Gi Beom Sim, integrated PhD program in computational chemistry. 
@@ -17,11 +20,7 @@ category: group_members
       Research currently in progress is the electrochemical catalyst combining chemistry with computing technology. 
       I'd like to devote fundamentally solution of these issues with advanced development of catalyst and understanding the chemical problems involved.<br>
           
-      
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/members/gbsim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+      </div>
 </div>
 
 According to the flow, my research goals are as below.

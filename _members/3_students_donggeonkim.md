@@ -10,13 +10,13 @@ category: group_members
 
 <div class="row">
     <div class="col-sm">
+        {% include figure.html path="assets/img/members/dgkim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm">
     I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br><br>
        
     The summer in korea is too hot. (in progress...)
     
-    </div>
-    <div class="col-sm">
-        {% include figure.html path="assets/img/members/dgkim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
