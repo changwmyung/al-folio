@@ -1,0 +1,7 @@
+이미지가 홈페이지 크기에 따라 돌아갈 때 해결방안 
+
+image(*.jpg) - Preference - Image Enhancements - Automatic orientation : off
+
+rotate image what you want - save
+
+githib - push

@@ -36,3 +36,11 @@ $black-color: #000000 !default;
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
+
+/*
+   Grid
+   ========================================================================== */
+
+$right-sidebar-width-narrow: 	100px !default;    // default 200px
+$right-sidebar-width:		200px !default;    // default 300px
+$right-sidebar-width-wide: 	250px !default;    // default 400px

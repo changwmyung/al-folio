@@ -16,16 +16,9 @@ layout: default
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-
-              {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
-
               {% include figure.html 
               path=profile_image_path 
-              class=profile_image_class
+              class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
@@ -40,18 +33,19 @@ layout: default
             {{ content }}
           </div>
 
+                    
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
-
+                    
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
-
+          
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
@@ -62,7 +56,7 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-              
+            
             </div>
           {%- endif %}
         </article>
