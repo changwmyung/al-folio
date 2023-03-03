@@ -15,8 +15,6 @@ category: group_members
     <div class="col-sm-8">
     I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br><br>
        
-    The summer in korea is too hot. (in progress...)
-    
     </div>
 </div>
 
