@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ann So Hee
+title: So Hee Ann
 description: BS student (aoo212@o.cnu.ac.kr)
 img:
 importance: 2
