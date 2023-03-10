@@ -23,9 +23,7 @@ category: group_members
     &nbsp;What I'm doing recently is theoretical multi-task Machine Learning and SGPR studying. And binding energy and Lewis acidity calculations of the UIO-66 + TFSI model used for composite solid electrolytes are in progress.<br>
     <br>
     
-    &nbsp;In the laboratory, I'm in charge of managing the homepage(in progress...) and recording information on the wiki(to be added).<br>
-  
-    Please feel free to contact me by e-mail. :)
+    &nbsp;In the laboratory, I'm in charge of managing the homepage(in progress...) and recording information on the wiki(to be added). Please feel free to contact me by e-mail. :)<br>
        
     </div>
 </div>
