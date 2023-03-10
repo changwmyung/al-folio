@@ -13,14 +13,21 @@ category: group_members
         {% include figure.html path="assets/img/members/thpark.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8">
-    I'm Taehyun Park, integrated PhD program in computational chemistry.
+    &nbsp;I'm Taehyun Park, integrated PhD program in computational chemistry.
     I am interested in researching energy storage technology.
-    Currently, I am going to develop a next-generation machine learning potential that accurately predicts the energy at the first principle level of a material according to the spin state that can be applied to the cathode, an important element of the battery.
-    Starting with a simple magnetic base system, it will expand to the combination of a wide range of transition metal species, such as Fe, Ti, and Mn, and DRX cathode. Based on this, complex structural transition due to charging and discharging of DRX materials, Li transport mechanism, sloping electrochemical profile, and the like may be studied.
+    Currently, I am going to develop a next-generation machine learning potential that accurately predicts the energy at the first principle level of a material according to the spin state that can be applied to the cathode, an important element of the battery.<br>
+    
+    &nbsp;Starting with a simple magnetic base system, it will expand to the combination of a wide range of transition metal species, such as Fe, Ti, and Mn, and DRX cathode. Based on this, complex structural transition due to charging and discharging of DRX materials, Li transport mechanism, sloping electrochemical profile, and the like may be studied.<br>
+    
     </div>
 </div>
 
-According to the flow, my research goals are as below.
+&nbsp;According to the flow, my research goals are as below.
 
 1. Development of sparse gaussian process regression(SGPR)
 2. Study...
+
+
+
+
+

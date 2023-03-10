@@ -13,9 +13,15 @@ category: group_members
         {% include figure.html path="assets/img/members/dgkim.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8">
-    I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br><br>
+    I'm Dong Geon Kim, a student in Department of Chemistry at Chungnam National University.<br>
        
     </div>
 </div>
+
+1. Development of sparse gaussian process regression(SGPR)
+2. Study...
+
+
+
 
 

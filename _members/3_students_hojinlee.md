@@ -9,9 +9,25 @@ category: group_members
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4">
         {% include figure.html path="assets/img/members/hjlee.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+    &nbsp;I am Hojin Lee, a master's student in Computational Chemistry. My research interests lie in contributing to various environmental issues, such as greenhouse gas emissions, by creating high-efficiency catalysts.<br>
+    
+    &nbsp;Specifically, I aim to design catalysts by connecting transition metal dimers to nitrogen-doped defected graphene. This process is carried out at the first-principles level using a combination of DFT and machine learning.<br>
+    
+    &nbsp;After completing the calculations for all target transition metals, I will analyze the results to determine the necessary factors for electrochemical catalyst calculations (HER, OER, ORR, etc.) and conduct research on electrochemical reactions.<br>
+    
     </div>
 </div>
 
-I'm , a student in Department of Chemistry at Chungnam National University.
+&nbsp;According to the flow, my research goals are as below.
+
+1. Study about catalytic reaction mechanism
+2. ...
+
+
+
+
+
