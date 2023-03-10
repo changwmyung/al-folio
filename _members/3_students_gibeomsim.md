@@ -20,7 +20,12 @@ category: group_members
       
       &nbsp;Research currently in progress is the electrochemical catalyst combining chemistry with computing technology. 
       I'd like to devote fundamentally solution of these issues with advanced development of catalyst and understanding the chemical problems involved.<br>
-          
+      <br>
+      
+      &nbsp;In the laboratory, I'm in charge of equipment management and representative.<br>
+      
+      Please feel free to contact me by e-mail. :)
+      
       </div>
 </div>
 
