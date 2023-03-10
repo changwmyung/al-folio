@@ -17,7 +17,7 @@ I develop and apply the state-of-the-art computational methods to understand ess
 
 I’m Chang Woo Myung, an assistant professor in the Department of Chemistry at Chungnam National University. Before joining the faculty, I worked as a postdoc researcher at University of Cambridge with Prof. Angelos Michaelides and at ETH Zurich/USI with Prof. Michele Parrinello. I received my PhD in Chemistry under Prof. Kwang S. Kim at UNIST, Korea. Before that, I recieved my MS and BS at POSTECH, Korea.
 
-Selected Papers (see more publication here.)
+Selected Papers ([see more publication here.](https://changwmyung.github.io/publications/))
 
 1. "Tuning Metal Single Atoms Embedded in NxCy Moiety Toward High-Performance Electrocatalysis." Energy Environ. Sci. accepted (2021).
 

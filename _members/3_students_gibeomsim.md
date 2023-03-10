@@ -13,10 +13,12 @@ category: group_members
     </div>
     <div class="col-sm-8">
       &nbsp;My interests are computation methodology, algorithm development, ways to fundamentally solve environmental issues, and understanding related chemical problems.<br>
+      <br>
       
       &nbsp;I’m Gi Beom Sim, integrated PhD program in computational chemistry. 
       Recently, greenhouse gas emission problem and methodology of calculation took my interest. 
       I want to help global environmental problems by computational methods applying to Ab initio methods.<br>
+      <br>
       
       &nbsp;Research currently in progress is the electrochemical catalyst combining chemistry with computing technology. 
       I'd like to devote fundamentally solution of these issues with advanced development of catalyst and understanding the chemical problems involved.<br>
