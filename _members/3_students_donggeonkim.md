@@ -28,6 +28,7 @@ category: group_members
     </div>
 </div>
 
+<br>
 &nbsp;According to the flow, my research goals are as below.
 
 1. Understanding & improvement of sparse gaussian process regression(SGPR) based multi-task code.
