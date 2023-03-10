@@ -18,6 +18,11 @@ category: group_members
     Currently, I am going to develop a next-generation machine learning potential that accurately predicts the energy at the first principle level of a material according to the spin state that can be applied to the cathode, an important element of the battery.<br>
     
     &nbsp;Starting with a simple magnetic base system, it will expand to the combination of a wide range of transition metal species, such as Fe, Ti, and Mn, and DRX cathode. Based on this, complex structural transition due to charging and discharging of DRX materials, Li transport mechanism, sloping electrochemical profile, and the like may be studied.<br>
+    <br>
+    
+    &nbsp;In the laboratory, I'm in charge of finance.<br>
+    
+    If you have problems related to Myung LAB finance, please feel free to contact me by e-mail. :)
     
     </div>
 </div>

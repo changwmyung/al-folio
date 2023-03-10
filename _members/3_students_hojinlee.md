@@ -18,6 +18,11 @@ category: group_members
     &nbsp;Specifically, I aim to design catalysts by connecting transition metal dimers to nitrogen-doped defected graphene. This process is carried out at the first-principles level using a combination of DFT and machine learning.<br>
     
     &nbsp;After completing the calculations for all target transition metals, I will analyze the results to determine the necessary factors for electrochemical catalyst calculations (HER, OER, ORR, etc.) and conduct research on electrochemical reactions.<br>
+    <br>
+    
+    &nbsp;In the laboratory, I'm in charge of training new students and producing training materials(ex. VASP).<br>
+    
+    If you are curious or interested in our lab, Please feel free to contact me by e-mail. :)
     
     </div>
 </div>
