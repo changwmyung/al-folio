@@ -24,7 +24,7 @@ category: group_members
     
     &nbsp;In the laboratory, I'm in charge of training new students and producing training materials(ex. VASP).<br>
     
-    If you are curious or interested in our lab, Please feel free to contact me by e-mail. :)
+    If you are curious or interested in our lab, Please feel free to contact us by e-mail. :)
     
     </div>
 </div>

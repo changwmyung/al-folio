@@ -23,7 +23,7 @@ category: group_members
     
     &nbsp;In the laboratory, I'm in charge of finance.<br>
     
-    If you have issues related to Myung LAB finance, please feel free to contact me by e-mail. :)
+    If you have issues related to Myung LAB finance, please feel free to contact us by e-mail. :)
     
     </div>
 </div>

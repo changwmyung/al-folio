@@ -26,7 +26,7 @@ category: group_members
       
       &nbsp;In the laboratory, I'm in charge of facility management and representative.<br>
       
-      Please feel free to contact me by e-mail. :)
+      Please feel free to contact us by e-mail. :)
       
       </div>
 </div>
